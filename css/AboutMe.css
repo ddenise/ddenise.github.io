@@ -1,0 +1,27 @@
+.img-square {
+	width: 150px;
+	height: 250px;
+}
+#imginfo {
+	width: 200px;
+}
+#ads {
+	width: 200px;
+}
+#uni {
+	width: 200px;
+}
+.super {color: red}
+.hi {color: green}
+.psy {color: purple}
+.lala {color: aqua}
+.ro {
+	color: grey}
+.da {color: violet}
+.pa {color: coral}
+.navbar {
+	background: red; 
+	color: white;
+	font-size: 20px;
+	font-family: Arial;
+}

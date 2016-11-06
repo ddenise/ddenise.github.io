@@ -1,0 +1,15 @@
+.card {
+	border-color: green;
+}
+
+.card-title {
+	color: silver;
+	font-weight: 250px;
+}
+.card-block small {float: right;}
+
+.jumbotron {
+  background-image: url("../img/gl.jpg");
+  background-size: cover;
+  color: red;
+}
